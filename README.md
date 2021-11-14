@@ -20,4 +20,6 @@ Chiang, L. H., Russell, E. L., Braatz, R. D., 2000. Fault diagnosis in chemical 
 
 Downs, J. J., Vogel, E. F., 1993. A plant-wide industrial process control problem. Computers & Chemical Engineering, v. 17, n. 3, p. 245-255. https://doi.org/10.1016/0098-1354(93)80018-I.
 
+Ricker, N. L., 2005. Tennessee Eastman Challenge Archive. URL: http://depts.washington.edu/control/LARRY/TE/download.html.
+
 Russell, E. L., Chiang, L. H., Braatz, R. D., 2000. Fault detection in industrial processes using canonical variate analysis and dynamic principal component analysis. Chemometrics and Intelligent Laboratory Systems, v. 51, p. 81-93. https://doi.org/10.1016/S0169-7439(00)00058-7.
