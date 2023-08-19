@@ -23,3 +23,9 @@ Downs, J. J., Vogel, E. F., 1993. A plant-wide industrial process control proble
 Ricker, N. L., 2005. Tennessee Eastman Challenge Archive. URL: http://depts.washington.edu/control/LARRY/TE/download.html.
 
 Russell, E. L., Chiang, L. H., Braatz, R. D., 2000. Fault detection in industrial processes using canonical variate analysis and dynamic principal component analysis. Chemometrics and Intelligent Laboratory Systems, v. 51, p. 81-93. https://doi.org/10.1016/S0169-7439(00)00058-7.
+
+# Cite this repository
+
+To cite this repository, please reference the paper below:
+
+Souza, A. O. e, de Souza, M. B. & Silva, F. V. da. Enhancing fault detection and diagnosis systems for a chemical process: a study on convolutional neural networks and transfer learning. Evolving Systems (2023). https://doi.org/10.1007/s12530-023-09523-y.
